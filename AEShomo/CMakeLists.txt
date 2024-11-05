@@ -73,7 +73,7 @@ add_subdirectory(src)
 
 # my add
 add_subdirectory(homo)
-#####add_subdirectory(tutorial)
+#####add_subdirectory(tuto)
 
 #####if(ENABLE_BENCHMARK)
 #####  add_subdirectory(benchmark)
